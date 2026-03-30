@@ -98,7 +98,7 @@ to provide actionable insights into epidemic trends.
 ## ⚙️ Installation & Setup  
 
 1. Clone the repository  
-git clone https://github.com/your-username/covisense-ai.git  
+git clone https://github.com/suniti1809/covisense-ai.git  
 cd covisense-ai  
 
 2. Install dependencies  
