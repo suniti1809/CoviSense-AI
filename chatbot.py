@@ -2,9 +2,8 @@ import os
 import requests
 import streamlit as st
 import time
-from dotenv import load_dotenv
 
-load_dotenv()
+api_key=st.secrets["OPEN_AI_KEY"]
 
 def local_bot(user_input, context):
     text = user_input.lower()
