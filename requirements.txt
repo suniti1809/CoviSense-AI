@@ -2,6 +2,5 @@ numpy
 pandas
 streamlit
 plotly
-tensorflow-cpu
 openai
-
+scikit-learn
