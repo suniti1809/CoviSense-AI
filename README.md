@@ -33,6 +33,10 @@ CoviSense AI combines:
 to provide actionable insights into epidemic trends.
 
 ---
+## Live Demo
+  https://covisense-ai.streamlit.app/
+  
+---
 
 ## 🚀 Features  
 
