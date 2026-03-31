@@ -170,8 +170,8 @@ README.md
 - Multi-disease prediction (flu, dengue, etc.)  
 - Personalized insights for users  
 - Healthcare system integration  
-- Multilingual AI chatbot  
-- Cloud deployment for scalability  
+- Multilingual AI chatbot
+- Advanced version of chatbot
 
 ---
 
