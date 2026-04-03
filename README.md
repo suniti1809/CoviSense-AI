@@ -175,15 +175,6 @@ README.md
 
 ---
 
-## 👥 Team: HackHive 
-
-## Members:
-- Suniti
-- Pragti
-- Rohit Kumar Yadav
-
----
-
 ## ⭐ Conclusion  
 
 CoviSense AI demonstrates how AI and data analytics can be used to predict epidemic spread, analyze trends, and support healthcare decision-making.
